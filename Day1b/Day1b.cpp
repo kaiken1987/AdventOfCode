@@ -41,6 +41,8 @@ int _tmain(int argc, _TCHAR* argv[])
       }
    }
 end:
+   for(int i=0;i<1024;i++)
+       free(city[i]);
    int blocks = abs(n)+abs(e);
    printf("The EBHQ is %d blocks away",blocks);
    getc(stdin);
