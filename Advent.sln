@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day1A", "Advent\Advent.vcxproj", "{BF5EBB36-71F5-49C8-BC52-3134347DF2E9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day1b", "Day1b\Day1b.vcxproj", "{5A7B279A-C910-4B66-B8BC-0D458578E74C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5EBB36-71F5-49C8-BC52-3134347DF2E9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF5EBB36-71F5-49C8-BC52-3134347DF2E9}.Debug|Win32.Build.0 = Debug|Win32
+		{BF5EBB36-71F5-49C8-BC52-3134347DF2E9}.Release|Win32.ActiveCfg = Release|Win32
+		{BF5EBB36-71F5-49C8-BC52-3134347DF2E9}.Release|Win32.Build.0 = Release|Win32
+		{5A7B279A-C910-4B66-B8BC-0D458578E74C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A7B279A-C910-4B66-B8BC-0D458578E74C}.Debug|Win32.Build.0 = Debug|Win32
+		{5A7B279A-C910-4B66-B8BC-0D458578E74C}.Release|Win32.ActiveCfg = Release|Win32
+		{5A7B279A-C910-4B66-B8BC-0D458578E74C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
